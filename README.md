@@ -1,5 +1,7 @@
 # mannr
-
+<p align="center">
+  <img src="outputs/annoyance.png" alt="ANN tree visualization" width="500">
+</p>
 mannr is a lightweight, single-file Python package that implements a randomized approximate nearest neighbor (ANN) tree for tabular data using Pandas and NumPy.
 It focuses on simplicity and offline experimentation rather than production-grade performance.
 
